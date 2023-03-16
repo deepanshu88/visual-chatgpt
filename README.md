@@ -4,11 +4,7 @@
 
 See documentation: [<font size=5>Visual ChatGPT: Detailed Documentation</font>](https://www.listendata.com/2023/03/complete-guide-to-visual-chatgpt.html)
 
-<a src="https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-blue" href="https://huggingface.co/spaces/microsoft/visual_chatgpt">
-    <img src="https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-blue" alt="Open in Spaces">
-</a>
-
-<a src="https://colab.research.google.com/assets/colab-badge.svg" href="https://colab.research.google.com/drive/11BtP3h-w0dZjA-X8JsS9_eo8OeGYvxXB">
+<a src="https://colab.research.google.com/assets/colab-badge.svg" href="https://colab.research.google.com/drive/1lbgh4SWT-1y7uX_Jb0h7--CnBrr012kE?usp=sharing">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab">
 </a>
 
