@@ -2,7 +2,7 @@
 
 **Visual ChatGPT** connects ChatGPT and a series of Visual Foundation Models to enable **sending** and **receiving** images during chatting.
 
-See our paper: [<font size=5>Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models</font>](https://arxiv.org/abs/2303.04671)
+See documentation: [<font size=5>Visual ChatGPT: Detailed Documentation</font>](https://www.listendata.com/2023/03/complete-guide-to-visual-chatgpt.html)
 
 <a src="https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-blue" href="https://huggingface.co/spaces/microsoft/visual_chatgpt">
     <img src="https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-blue" alt="Open in Spaces">
